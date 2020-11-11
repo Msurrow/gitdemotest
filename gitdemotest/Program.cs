@@ -10,6 +10,8 @@ namespace gitdemotest
 
             Person p = new Person() { FirstName = "Anders", LastName = "And" };
             Console.WriteLine(p);
+		Dog d = new Dog() {name="Theo"};
+		Console.WriteLine(d);
        }
     }
 

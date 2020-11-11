@@ -12,6 +12,7 @@ namespace gitdemotest
             Console.WriteLine(p);
 		Dog d = new Dog() {name="Theo"};
 		Console.WriteLine(d);
+		Console.WriteLine("foobar-fra-Morten");
        }
     }
 

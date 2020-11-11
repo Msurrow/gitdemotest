@@ -10,10 +10,7 @@ namespace gitdemotest
 
             Person p = new Person() { FirstName = "Anders", LastName = "And" };
             Console.WriteLine(p);
-
-            var mydog = new Dog();
-            Console.Write(mydog);
-        }
+       }
     }
 
     class Person
@@ -24,6 +21,16 @@ namespace gitdemotest
         public override String ToString()
         {
             return FirstName + " " + LastName;
+        }
+    }
+
+    class Dog
+    {
+        public string name { get; set; }
+
+        public override string ToString()
+        {
+            return "Bark bark: " + name;
         }
     }
 }

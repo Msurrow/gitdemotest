@@ -1,0 +1,12 @@
+/Users/marksurrow/Downloads/gitdemo/gitdemotest/gitdemotest/gitdemotest/bin/Debug/gitdemotest.exe
+/Users/marksurrow/Downloads/gitdemo/gitdemotest/gitdemotest/gitdemotest/bin/Debug/gitdemotest.pdb
+/Users/marksurrow/Downloads/gitdemo/gitdemotest/gitdemotest/gitdemotest/obj/Debug/gitdemotest.csprojAssemblyReference.cache
+/Users/marksurrow/Downloads/gitdemo/gitdemotest/gitdemotest/gitdemotest/obj/Debug/gitdemotest.csproj.CoreCompileInputs.cache
+/Users/marksurrow/Downloads/gitdemo/gitdemotest/gitdemotest/gitdemotest/obj/Debug/gitdemotest.exe
+/Users/marksurrow/Downloads/gitdemo/gitdemotest/gitdemotest/gitdemotest/obj/Debug/gitdemotest.pdb
+/Users/marksurrow/Downloads/gitdemo/gitdemotest/gitdemotest/bin/Debug/gitdemotest.exe
+/Users/marksurrow/Downloads/gitdemo/gitdemotest/gitdemotest/bin/Debug/gitdemotest.pdb
+/Users/marksurrow/Downloads/gitdemo/gitdemotest/gitdemotest/obj/Debug/gitdemotest.csprojAssemblyReference.cache
+/Users/marksurrow/Downloads/gitdemo/gitdemotest/gitdemotest/obj/Debug/gitdemotest.csproj.CoreCompileInputs.cache
+/Users/marksurrow/Downloads/gitdemo/gitdemotest/gitdemotest/obj/Debug/gitdemotest.exe
+/Users/marksurrow/Downloads/gitdemo/gitdemotest/gitdemotest/obj/Debug/gitdemotest.pdb
